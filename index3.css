@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+}
+
+table {
+        width: 600px;
+    border: 2px solid black;}
+
+.head{
+    text-transform: uppercase; 
+    text-align:center;
+    background-color: yellow;
+    color: #000;
+    border: 2px solid black;
+    border-bottom: 2px solid #111111;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}    
+.h1{
+    border: 2px solid #111111;
+    background-color:#ffa500;
+    color: #000;
+}
+
+.new{
+    border: 2px solid #111111;
+background-color: #7851A9;
+color: #000;
+}
+.new1{
+border: 2px solid #111111;
+background-color: lightblue;
+color: #000;
+}
+.new2{
+border: 2px solid #111111;
+background-color:#FFD700;
+color: #000;
+}
+.new3{
+border: 2px solid #111111;
+background-color:#ffa500;
+color: #000;
+}
+.new4{
+border: 2px solid #111111;
+background-color:greenyellow;
+color: #000;
+}
+.new5{
+border: 2px solid #111111;
+background-color:#C4A484;
+color: #000;
+}
+.new6{
+border: 2px solid #111111;
+background-color:#D3B683;
+color: #000;
+}
+.new7{
+border: 2px solid #111111;
+background-color:lightgray;
+color: #000;
+}
+.new8{
+border: 2px solid #111111;
+background-color:rgb(228, 215, 190);
+color: #000;
+}
+
+
+
+.mean{
+border: 2px solid #111111;
+background-color: #f0e5d3;
+}
+
+
+
+
+
